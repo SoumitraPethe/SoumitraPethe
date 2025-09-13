@@ -11,7 +11,6 @@
 <a href="https://kaggle.com/soumitra pethe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="soumitra pethe" height="30" width="40" /></a>
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="soumitra10" height="30" width="40" style="background-color:pink; padding:5px; border-radius:5px;" />
 </a>
-<a href="https://www.leetcode.com/pethesoumitra2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pethesoumitra2" height="30" width="40" /></a>
 </p>
 
 <h3 align="centre">Languages and Tools:</h3>
